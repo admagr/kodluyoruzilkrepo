@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 
-Bu repo [kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ## Installation
 
@@ -27,4 +27,4 @@ Pull requestler kabul edilir. Büyük değişikler için lütfen bir şeyi deği
 
 ## Licence
 
-[MIT]()
+[MIT](https://kodluyoruz.org)
